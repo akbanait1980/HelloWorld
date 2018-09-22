@@ -1,10 +1,10 @@
 public class JenkinsWelcome {
-  public static void Jenkins(String[] args) {
+  public static void main(String[] args) {
 
     System.out.println("Today's date is: ");
 
-    String name;
-    String course;
+    String name="my_name";
+    String course="my_course";
     int cohort = 2;
 
     printName(name);
