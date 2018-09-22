@@ -1,7 +1,7 @@
 public class JenkinsWelcome {
   public static void Jenkins(String[] args) {
 
-    System.out.println("Today's date is: ")
+    System.out.println("Today's date is: ");
 
     String name;
     String course;
